@@ -76,8 +76,7 @@ int main()
     y = temp_y1 / temp_y2;
 
     cout << "x = ";
-    cout << x;
-    cout << ", ";
+    cout << x << endl;
     cout << "y = ";
     cout << y;
     */
@@ -107,5 +106,6 @@ int main()
     cout << y;
     */
 }
+
 
 
