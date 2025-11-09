@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    //1, 2, 3, 4, 5, 6, 7, 
+    //1, 2, 3, 4, 5, 6, 7, 8
 
     const int n = 5;
     int mas[n];
@@ -145,3 +145,4 @@ int main()
         cout << mas[i] << " ";
     cout << endl;
 }
+
